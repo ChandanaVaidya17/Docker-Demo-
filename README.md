@@ -1,8 +1,7 @@
 FIle structure
 
 docker-node-app/   # Project folder
-│── Dockerfile     # Docker configuration file
-│── server.js      # Simple Node.js script
+│── Dockerfile     # Docker configuration file  │── server.js      # Simple Node.js script
 
 ```
 npm init -y
@@ -83,4 +82,3 @@ You should see:
 Hello from Dockerized Node.js!
 ```
 
-Let me know if you need further simplifications! 🚀
