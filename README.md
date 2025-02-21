@@ -1,18 +1,19 @@
 FIle structure
-
+```
 docker-node-app/   # Project folder
-│── Dockerfile     # Docker configuration file  │── server.js      # Simple Node.js script
-
+│── Dockerfile     # Docker configuration file  
+│── server.js      # Simple Node.js script
+```
 ```
 npm init -y
 ```
 this will create following file structure
-
+```
 docker-node-app/   # Project folder
 │── Dockerfile     # Docker configuration file
 │── package.json   # (Optional) Node.js dependencies file
 │── server.js      # Simple Node.js script
-
+```
 ### **1. Create a Simple Node.js Script (`server.js`)**
 ```javascript
 const http = require("http");
