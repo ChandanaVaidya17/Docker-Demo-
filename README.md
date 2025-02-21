@@ -1,4 +1,4 @@
-FIle structure
+File structure
 ```
 docker-node-app/   # Project folder
 │── Dockerfile     # Docker configuration file  
